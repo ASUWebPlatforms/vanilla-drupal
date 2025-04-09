@@ -84,11 +84,6 @@
                 "      composer remove drupal/core-project-message"
             ]
         },
-        "patches": {
-            "drupal/core": {
-                "Add user1 account migration": "web/modules/contrib/asu_secure_superadmin/patch/user-module-3135592-2241mr-c39.patch"
-            }
-        },
         "installer-types": ["drupal-recipe"]
     }
 }
